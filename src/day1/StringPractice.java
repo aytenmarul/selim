@@ -1,6 +1,6 @@
 package day1;
 
-public class Main {
+public class StringPractice {
 
     public static void main(String[] args) {
 
